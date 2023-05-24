@@ -1,0 +1,11 @@
+.card-desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+.card-desc * {
+    margin-top: 15px;
+}

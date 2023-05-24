@@ -1,0 +1,13 @@
+.header {
+    position: fixed;
+    top: 40px;
+    left: 40px;
+}
+
+.header *{
+    margin: 12px;
+}
+
+.header img {
+    margin-bottom: 10px;
+}
