@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.82f7a174.css",
-    "main.js": "/static/js/main.9d307952.js",
-    "static/media/zny.jpg": "/static/media/zny.cdcb4aeba91b1f2a5e3d.jpg",
-    "static/media/logo.png": "/static/media/logo.e60eeeaf816be1678c01.png",
-    "static/media/VINES.jpeg": "/static/media/VINES.49d410b9d2f5c5b73f20.jpeg",
-    "static/media/GOODVINES.jpeg": "/static/media/GOODVINES.6c73c3b8003f501efb31.jpeg",
-    "static/media/NOSTRESS.jpeg": "/static/media/NOSTRESS.b2d4c6b9de82a824eae3.jpeg",
-    "static/media/GOAT.jpeg": "/static/media/GOAT.48f3aeaba466f9c50fde.jpeg",
-    "index.html": "/index.html",
-    "main.82f7a174.css.map": "/static/css/main.82f7a174.css.map",
-    "main.9d307952.js.map": "/static/js/main.9d307952.js.map"
+    "main.css": "/attic/static/css/main.82f7a174.css",
+    "main.js": "/attic/static/js/main.3956c7be.js",
+    "static/media/zny.jpg": "/attic/static/media/zny.cdcb4aeba91b1f2a5e3d.jpg",
+    "static/media/logo.png": "/attic/static/media/logo.e60eeeaf816be1678c01.png",
+    "static/media/VINES.jpeg": "/attic/static/media/VINES.49d410b9d2f5c5b73f20.jpeg",
+    "static/media/GOODVINES.jpeg": "/attic/static/media/GOODVINES.6c73c3b8003f501efb31.jpeg",
+    "static/media/NOSTRESS.jpeg": "/attic/static/media/NOSTRESS.b2d4c6b9de82a824eae3.jpeg",
+    "static/media/GOAT.jpeg": "/attic/static/media/GOAT.48f3aeaba466f9c50fde.jpeg",
+    "index.html": "/attic/index.html",
+    "main.82f7a174.css.map": "/attic/static/css/main.82f7a174.css.map",
+    "main.3956c7be.js.map": "/attic/static/js/main.3956c7be.js.map"
   },
   "entrypoints": [
     "static/css/main.82f7a174.css",
-    "static/js/main.9d307952.js"
+    "static/js/main.3956c7be.js"
   ]
 }
