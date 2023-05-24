@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/attic/static/css/main.82f7a174.css",
-    "main.js": "/attic/static/js/main.84a43537.js",
+    "main.js": "/attic/static/js/main.d9fce77f.js",
     "static/media/mainpage.png": "/attic/static/media/mainpage.d2f6bbeaf44566d95a9e.png",
     "static/media/logo.png": "/attic/static/media/logo.e60eeeaf816be1678c01.png",
     "static/media/VINES.jpeg": "/attic/static/media/VINES.49d410b9d2f5c5b73f20.jpeg",
@@ -10,10 +10,10 @@
     "static/media/GOAT.jpeg": "/attic/static/media/GOAT.48f3aeaba466f9c50fde.jpeg",
     "index.html": "/attic/index.html",
     "main.82f7a174.css.map": "/attic/static/css/main.82f7a174.css.map",
-    "main.84a43537.js.map": "/attic/static/js/main.84a43537.js.map"
+    "main.d9fce77f.js.map": "/attic/static/js/main.d9fce77f.js.map"
   },
   "entrypoints": [
     "static/css/main.82f7a174.css",
-    "static/js/main.84a43537.js"
+    "static/js/main.d9fce77f.js"
   ]
 }
