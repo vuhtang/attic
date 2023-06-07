@@ -1,0 +1,1 @@
+export  {default as ClothesCard} from "./ClothesCard"

@@ -1,0 +1,1 @@
+export  {default as SingleBrand} from "./SingleBrand"
