@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/attic/static/css/main.82f7a174.css",
-    "main.js": "/attic/static/js/main.453786e3.js",
+    "main.css": "/attic/static/css/main.d8628025.css",
+    "main.js": "/attic/static/js/main.f495c2ef.js",
     "static/media/mainpage.png": "/attic/static/media/mainpage.d2f6bbeaf44566d95a9e.png",
     "static/media/logo.png": "/attic/static/media/logo.e60eeeaf816be1678c01.png",
-    "static/media/VINES.jpeg": "/attic/static/media/VINES.49d410b9d2f5c5b73f20.jpeg",
-    "static/media/GOODVINES.jpeg": "/attic/static/media/GOODVINES.6c73c3b8003f501efb31.jpeg",
-    "static/media/NOSTRESS.jpeg": "/attic/static/media/NOSTRESS.b2d4c6b9de82a824eae3.jpeg",
-    "static/media/GOAT.jpeg": "/attic/static/media/GOAT.48f3aeaba466f9c50fde.jpeg",
+    "static/media/BLESSED1.jpg": "/attic/static/media/BLESSED1.d606f1c38f39aadf66ce.jpg",
+    "static/media/VINES2.jpeg": "/attic/static/media/VINES2.49d410b9d2f5c5b73f20.jpeg",
+    "static/media/BLESSED2.jpg": "/attic/static/media/BLESSED2.fdd8bb048d44df9c473d.jpg",
+    "static/media/BLESSED3.jpg": "/attic/static/media/BLESSED3.01a84461ae8335375137.jpg",
+    "static/media/VINES1.jpeg": "/attic/static/media/VINES1.6c73c3b8003f501efb31.jpeg",
+    "static/media/NOSTRESS1.jpeg": "/attic/static/media/NOSTRESS1.b2d4c6b9de82a824eae3.jpeg",
+    "static/media/GOAT1.jpeg": "/attic/static/media/GOAT1.48f3aeaba466f9c50fde.jpeg",
     "index.html": "/attic/index.html",
-    "main.82f7a174.css.map": "/attic/static/css/main.82f7a174.css.map",
-    "main.453786e3.js.map": "/attic/static/js/main.453786e3.js.map"
+    "main.d8628025.css.map": "/attic/static/css/main.d8628025.css.map",
+    "main.f495c2ef.js.map": "/attic/static/js/main.f495c2ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.82f7a174.css",
-    "static/js/main.453786e3.js"
+    "static/css/main.d8628025.css",
+    "static/js/main.f495c2ef.js"
   ]
 }
