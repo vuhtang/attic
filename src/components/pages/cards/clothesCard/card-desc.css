@@ -3,9 +3,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 15px;
+    font-size: 13px;
+}
+
+.price {
+    font-size: 14px;
+    font-weight: normal;
 }
 
 .card-desc * {
-    margin-top: 15px;
+    margin-bottom: 13px;
 }

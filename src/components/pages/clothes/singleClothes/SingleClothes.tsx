@@ -15,7 +15,7 @@ function SingleClothes(cardProps: {
                     <Carousel.Item>
                         <img
                             src={s}
-                            alt={'wefwf'}
+                            alt={cardProps.card.title}
                             width={'300px'}/>
                     </Carousel.Item>
                 )}

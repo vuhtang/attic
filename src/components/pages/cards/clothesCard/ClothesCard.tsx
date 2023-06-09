@@ -17,7 +17,7 @@ function ClothesCard(cardProps: {
             <Card.Body>
                 <div className='card-desc'>
                     <span>{cardProps.card.title}</span>
-                    <span>1500 руб.</span>
+                    <span className="price">1500 руб.</span>
                 </div>
             </Card.Body>
         </Card>

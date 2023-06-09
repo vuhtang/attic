@@ -1,9 +1,12 @@
-import {Brands} from "../brands";
+import {BrandLayout} from "../brandLayout";
+import "./singleBrand.css"
+import {BrandDesc} from "../brandDesc";
 
 function SingleBrand() {
     return (
-        <div className='theone'>
-            <Brands />
+        <div className="theone">
+            <BrandDesc />
+            <BrandLayout />
         </div>
     )
 }

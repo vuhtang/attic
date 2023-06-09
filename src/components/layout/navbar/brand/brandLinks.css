@@ -1,0 +1,26 @@
+.brand-name {
+    font-weight: bold;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.brand-contacts {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    font-size: 12px;
+}
+
+.brand-clothes {
+    font-size: 12px;
+}
+
+.brand-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.brand-container * {
+    margin: 0;
+}
